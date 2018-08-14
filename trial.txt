@@ -1,0 +1,13 @@
+#inlude <iostream>
+#include <string>
+using namespace std;
+
+void motto ()
+{
+        	cout<<"Strathmore university motto is\n\tThat all may be one";
+}
+int main()
+{
+        	motto();
+        	
+}
