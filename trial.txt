@@ -5,7 +5,7 @@ using namespace std;
 void motto ()
 {
         	cout<<"Strathmore university motto is\n\tThat all may be one";
-                cout<<"A motto fulfilled";
+                cout<<"A fulfilled motto";
 }
 int main()
 {
